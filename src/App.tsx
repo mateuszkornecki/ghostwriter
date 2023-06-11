@@ -5,7 +5,7 @@ function App() {
 
   return (
       <div className={'app'}>
-          <h1 className={'inputValue'}>{'kkkk'}</h1>
+          <h1>{textToType}</h1>
       </div>
   );
 }
